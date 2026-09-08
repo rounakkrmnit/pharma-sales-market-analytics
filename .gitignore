@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
+
+# MySQL import scripts containing credentials
+import_mysql.py
+
+# OS files
+.DS_Store
+Thumbs.db
