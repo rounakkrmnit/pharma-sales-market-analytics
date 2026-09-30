@@ -115,14 +115,20 @@ SQL techniques used include:
 
 ## Dashboard
 
-An interactive Tableau dashboard was developed to analyze:
+An interactive Tableau dashboard was developed to analyze pharmaceutical sales performance across products, channels, markets, and time.
 
-- Sales performance
-- Year-over-year trends
+### Dashboard Preview
+
+![Pharma Sales & Market Analytics Dashboard](dashboard.png)
+
+### Dashboard Includes
+
+- Annual sales trends
+- Return-rate trends
 - Product-class performance
-- Channel performance
-- Returns
-- Market performance
+- Channel-wise sales performance
+- Market-wise sales performance
+- Key business KPIs
 
 **Tableau Dashboard:** Add Tableau Public link here
 
@@ -143,3 +149,4 @@ pharma-sales-market-analytics/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
